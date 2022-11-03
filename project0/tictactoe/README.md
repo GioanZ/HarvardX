@@ -3,8 +3,6 @@
 
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
-![Tic-Tac-Toe Game](images/game.png)
-
 
 [Getting Started](#getting-started)
 -----------------------------------
